@@ -9,11 +9,20 @@
 
 ![Nalam Madurai Cover Banner](cover.jpg)
 
-> 📺 **Demo Video Walkthrough:** [**Watch on YouTube (with AI Voiceover)**](https://www.youtube.com/watch?v=hbOIunWRBzM)  
+> 📺 **Demo Video Walkthrough:** [**Watch on YouTube (with AI Voiceover)**](https://youtu.be/hbOIunWRBzM)  
 > 🌐 **Live Interactive Web Demo:** [**https://swatiicfai.github.io/nalam-madurai/**](https://swatiicfai.github.io/nalam-madurai/)  
 > 🏆 **Event:** **AWS User Group Madurai** — *Strands SDK: Workshop to Ship (Oct 28 – Nov 4, 2026)*  
 > 🎯 **Track:** **Health (AI for Social Good)**  
 > 👩‍💻 **Builder / Author:** **Swati** ([@swatiicfai](https://github.com/swatiicfai))
+
+---
+
+## 📺 Demo Video Walkthrough
+
+[![Nalam Madurai Demo Video](https://img.youtube.com/vi/hbOIunWRBzM/maxresdefault.jpg)](https://youtu.be/hbOIunWRBzM)
+
+▶️ **Watch the full walkthrough on YouTube:** [**https://youtu.be/hbOIunWRBzM**](https://youtu.be/hbOIunWRBzM)  
+*(Features full walkthrough with AI voiceover explanation covering Triage, GRH Navigation, and TN Health Schemes).*
 
 ---
 
