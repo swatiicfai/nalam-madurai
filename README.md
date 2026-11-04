@@ -5,9 +5,11 @@
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-GenAI-f97316?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
 [![Track: Health](https://img.shields.io/badge/Track-Health_%26_Social_Good-10b981?style=for-the-badge)](https://builder.aws.com/build/hackathons/8311dcb5-1ece-3d62-a441-2e1c2ad90b86/strands-sdk-workshop-to-ship)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Interactive_Web_App-0d9488?style=for-the-badge)](https://swatiicfai.github.io/nalam-madurai/)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=hbOIunWRBzM)
 
 ![Nalam Madurai Cover Banner](cover.jpg)
 
+> 📺 **Demo Video Walkthrough:** [**Watch on YouTube (with AI Voiceover)**](https://www.youtube.com/watch?v=hbOIunWRBzM)  
 > 🌐 **Live Interactive Web Demo:** [**https://swatiicfai.github.io/nalam-madurai/**](https://swatiicfai.github.io/nalam-madurai/)  
 > 🏆 **Event:** **AWS User Group Madurai** — *Strands SDK: Workshop to Ship (Oct 28 – Nov 4, 2026)*  
 > 🎯 **Track:** **Health (AI for Social Good)**  
